@@ -18,7 +18,7 @@ contract EternalNFT is ERC721URIStorage {
     string[] element = [
         'Fire',
         'Wind',
-        'Water',
+        'Wave',
         'Earth',
         'Thunder',
         'Space',
