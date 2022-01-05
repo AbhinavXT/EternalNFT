@@ -1,4 +1,18 @@
-## Deployed Website
+# EternalNFT
+
+## Table of Contents
+  - [Deployed Website url](#deployed-website-url)
+  - [Deployed Contract Address](#deployed-contract-address)
+  - [Project Description](#project-description)
+  - [Workflow](#workflow)
+  - [Directory structure](#directory-structure)
+  - [Clone, Install and Build steps](#clone-install-and-build-steps)
+    - [Prerequisites](#prerequisites)
+    - [Cloning and installing dependencies](#cloning-and-installing-dependencies)
+    - [Testing Contracts](#testing-contracts)
+    - [Running the frontend](#running-the-frontend)
+
+## Deployed Website url
 
 https://eternal-nft.vercel.app/
 
