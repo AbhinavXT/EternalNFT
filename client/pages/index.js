@@ -1,3 +1,5 @@
+import Head from 'next/head'
+
 import { useState, useEffect } from 'react'
 import { nftContractAddress } from '../config.js'
 import { ethers } from 'ethers'
@@ -158,6 +160,10 @@ const mint = () => {
 
 	return (
 		<div className='flex flex-col items-center pt-32 bg-[#0B132B] text-[#d3d3d3] min-h-screen'>
+			<Head>
+				<title>Eternal NFT</title>
+				<meta name='viewport' content='initial-scale=1.0, width=device-width' />
+			</Head>
 			<div className='trasition hover:rotate-180 hover:scale-105 transition duration-500 ease-in-out'>
 				<svg
 					xmlns='http://www.w3.org/2000/svg'
